@@ -55,6 +55,7 @@
 ---
 
 ### 📊 GitHub Activity
+> カードの生成は　https://zenn.dev/a_ichi1/articles/64f353e23408b9　を参考にさせていただきました。「profile-summary-card-output」の中のREADMEの中にコードあり
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.app/?user=Hikarinrin7&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
 </p>
